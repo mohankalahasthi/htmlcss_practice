@@ -31,8 +31,7 @@ body,h1,h2,h3,h4,h5,h6,div,table,p,span
 	
 
 }
-
-.matter{
+ .matter{
 	color: white;
 	float:left;
 	padding: 90px 0px 0px 80px;
@@ -70,9 +69,38 @@ body,h1,h2,h3,h4,h5,h6,div,table,p,span
 	width: 258px;
     margin-top: 37px;
 }
+.name{
+	height: 30px;
+    width: 100%;
+    padding: 13px 0px 0px 46px;
+    border: none;
+    border-bottom: 1px solid;
+
+}
+.email{
+	height: 30px;
+    width: 100%;
+    padding: 13px 0px 0px 46px;
+    border: none;
+    border-bottom: 1px solid;
+
+}
+.pswd{
+	height: 30px;
+    width: 100%;
+    padding: 13px 0px 0px 46px;
+    border: none;
+    border-bottom: 1px solid;
+}
 span{
 	color: orange;
 }
+.getbtn{
+	width: 100%;
+    height: 40px;
+    margin-top: 85px;
+    background-color: orange;
+
 }
 .botm{
 	
@@ -84,6 +112,8 @@ span{
 
 	color: black;
 	float: left;
+	padding: 36px 0px 0px 82px;
+    width: 330px;
 }
 .socialimage{
 	float: right;
@@ -122,7 +152,7 @@ span{
 	}
 	.detail1center{
 		float: left;
-	padding: 124px;
+		padding: 124px;
 
 	}
 	.btn1{
@@ -130,9 +160,11 @@ span{
 		width: 120px;
 		height: 30px;
 		background-color: orange;
+		color: white;
 	}
 	.detail1last{
 		float: left;
+		margin: 122px;
 	}
 	.details2{
 	
@@ -141,16 +173,46 @@ span{
 		background-color: #F2F4F4;
 
 	}
-	.detail2leftimg{
-			float: left;
+	.details2leftimg{
+		clear: both;
+		float: left;
+    	width: 200px;
+    	height: 100px;
+    	padding: 20px 0px 0px 144px;
 		}	
-		.details2right{
+	.details2right{
 		float: right;
    		 width: 459px;
     	padding-right: 137px;
     	padding-top: 38px;
-
 		}
+	.d2r{
+		width:60px;
+		border-color: orange;
+		border-style: solid;
+		margin-left: 0px;
+		}
+	.tc1{
+		margin-top: 50px;
+		    width: 383px;
+
+
+	}	
+	.tc2{
+
+		margin-top: 50px;
+		    width: 383px;
+	}
+	.img1{
+		    float: left;
+		    width: 70px;
+
+	}
+	.img2{
+		    float: left;
+		    width: 70px;
+
+	}
 	.details3{
     width: 100%;
     height: 500px;
@@ -159,14 +221,24 @@ span{
 	.details3left
 	{
 		float: left;
-   	    width: 547px;
-    	margin: 119px;
+    	width: 456px;
+    	height: 300px;
+    	padding: 100px 0px 0px 120px
 	}
-	.details3image{
+	.d3r{
+		width: 60px;
+    	margin-left: 0px;
+    	border-color: orange;
+    	border-style: solid;
+	}
+	.detail3img{
 		float: left;
 		width: 200px;
-		
+		height:100px;
+		padding-left: 130px;
+   		padding-top: 66px;
 	}
+	
 	.details4{
 		width: 100%;
 		height: 415px;
@@ -174,9 +246,15 @@ span{
 		background-color: #F4E2F7
 
 	}
+	.d4r{
+		width: 60px;
+		border-style: solid;
+		border-color: orange;
+	}
 	.details4bottom{
 		width: 100%;
 		height: 250px;
+		border-style: 1px solid;
 
 	}
 	
