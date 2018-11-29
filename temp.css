@@ -245,6 +245,7 @@ span{
 		padding-top: 60px;
 		background-color: #F4E2F7
 
+
 	}
 	.d4r{
 		width: 60px;
@@ -254,43 +255,66 @@ span{
 	.details4bottom{
 		width: 100%;
 		height: 250px;
-		border-style: 1px solid;
-
-	}
+		margin-top: 30px;
+		}
 	
 	.details4img{
-		float: left;
-   		 width: 303px;
-   		 height: 150px;
-   		 padding: 101px 0px 0px 120px;
+		 float: left;
+   	   	width: 306px;
+   		 height: 111px;
+    	padding: 42px 0px 0px 120px;
     	 
     }
     .img4one{
 		padding-left: 117px;
 		width: 145px;
 	}
-	.c1{
-		width: 336px;
+	.details4two{
+		float: left;
+   	   	width: 306px;
+   		 height: 111px;
+    	padding: 42px 0px 0px 120px;
 	}
+	.img4two{
+		padding-left: 117px;
+		width: 145px;
+	}
+	.details4three{
+		float: left;
+   	   	width: 306px;
+   		 height: 111px;
+    	padding: 42px 0px 0px 120px;
+	}
+	.img4three{
+		padding-left: 117px;
+		width: 145px;
+	}
+
 	.pricelist{
 	width: 100%;
     height: 700px;
     background-color: #CCD1D1;
 	}
+
 	.pricehead{
 		padding-top: 55px;
+	}
+	.d5r{
+		width: 60px;
+		border-style: solid;
+		border-color: orange;
 	}
 	.pricebottom{
 		width: 100%;
 		height: 420px;
-    	margin-top: 138px;
+    	margin-top: 60px;
 		}
 		.pricebasic{
 			float: left;
 			 width: 16%;
     		height: 408px;
     		margin-left: 136px;
-			
+			padding-top: 43px;
 		}
 		.pricebasic1{
 			height: 40%;
@@ -299,19 +323,97 @@ span{
 			padding-top: 15px;
 			color: white;
 		}
+		.dp1{
+			width: 100%;
+			border-color: orange;
+			border-style: solid;
+
+		}
 		.pricebasic2{
-			height: 215px;
-    		width: 305px;
+			height: 50%;
    			 background-color: #EAEDED;
-   			 margin-top: 134px;
-    		color: gray;  		
+   			color: gray;  		
 			
 		}
+		.priceprof{
+			float: left;
+			 width: 16%;
+    		height: 408px;
+    		margin-left: 136px;
+			
+		}
+		.priceprof1{
+			height: 40%;
+			width: 100%;
+			background-color: black;
+			padding-top: 15px;
+			color: white;
+		}
+		.dp2{
+			width: 100%;
+			border-color: orange;
+			border-style: solid;
+
+		}
+		.omp{
+			width: 100%;
+			height: 30px;
+			background-color: orange;
+			color: white;
+			padding-top: 15px;
+
+
+		}
+		.priceprof2{
+			height: 50%;
+   			 background-color: #EAEDED;
+   			color: gray;  		
+			
+		}
+
 		.ourcust{
 			width: 100%;
 			height: 500px;
 			background-color: #EBE1B6;
 		}
+		.custhead{
+			    padding-top: 50px;
+		}
+		.oct{
+			width: 5%;
+			border-color: orange;
+			border-style: solid;
+
+		}
+		.custdetails{
+			width: 100%;
+			height: 280px;
+			margin-top: 97px;
+		}
+		.cust1{
+			    width: 22%;
+    			height: 277px;
+    			float: left;
+   				 margin-left: 125px;
+   		}
+   		.matt1{
+   			 width: 83%;
+    		height: 71px;
+   			 background-color: #f2f5ed;
+   		}
+   		.leftimg{
+   			float: left;
+   			width: 80px;
+   			height:80px;
+   			 margin-top: 28px;
+   		}
+   		.commentmanager{
+   			width: 38%;
+   			height: 72px;
+   			margin-left: 53px;
+    		margin-top: 17px;
+    		padding: 24px 0px 0px 35px;
+   		}
 		.download2{
 			width: 100%;
 			height: 200px;
