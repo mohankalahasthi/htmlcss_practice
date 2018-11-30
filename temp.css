@@ -414,7 +414,58 @@ span{
     		margin-top: 17px;
     		padding: 24px 0px 0px 35px;
    		}
+   		.cust2{
+			    width: 22%;
+    			height: 277px;
+    			float: left;
+   				 margin-left: 125px;
+   		}
+   		.matt2{
+   			 width: 83%;
+    		height: 71px;
+   			 background-color: #f2f5ed;
+   		}
+   		.leftimg1{
+   			float: left;
+   			width: 80px;
+   			height:80px;
+   			 margin-top: 28px;
+   		}
+   		.commentfreelancer{
+   			width: 38%;
+   			height: 72px;
+   			margin-left: 53px;
+    		margin-top: 17px;
+    		padding: 24px 0px 0px 35px;
+   		}
+   		.cust3{
+			    width: 22%;
+    			height: 277px;
+    			float: left;
+   				 margin-left: 125px;
+   		}
+   		.matt3{
+   			 width: 83%;
+    		height: 71px;
+   			 background-color: #f2f5ed;
+   		}
+   		.leftimg2{
+   			float: left;
+   			width: 80px;
+   			height:80px;
+   			 margin-top: 28px;
+   		}
+   		.commentphotographer{
+   			width: 38%;
+   			height: 72px;
+   			margin-left: 53px;
+    		margin-top: 17px;
+    		padding: 24px 0px 0px 35px;
+   		}
 		.download2{
 			width: 100%;
-			height: 200px;
+			height: 300px;
+			color: white;
+			text-align: center;
+
 		}
